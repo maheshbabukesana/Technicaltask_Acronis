@@ -1,0 +1,6 @@
+server:
+  port: 9001
+app:
+  api:
+    url: http://api.exchangeratesapi.io/v1/latest?access_key=badb1d288f85e967d39a16b0305ed7a1
+
